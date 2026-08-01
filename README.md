@@ -8,6 +8,17 @@
 
 ---
 
+## 🎥 Video Demonstration
+
+Watch the dual-axis light tracker in action! 
+
+<!-- GANTI "YOUR_VIDEO_ID" DENGAN ID VIDEO YOUTUBE ANDA (ID adalah kode acak di akhir link YouTube, misalnya: dQw4w9WgXcQ) -->
+[![Dual-Axis Tracker Demo](https://img.youtube.com/vi/9u-r0ngab6U/maxresdefault.jpg)](https://www.youtube.com/watch?v=9u-r0ngab6U) 
+
+*(Click the image above to watch the full implementation video on YouTube)*
+
+---
+
 ## 📸 Documentation Gallery
 
 Here is a look at the final build and the mechanics behind it:
