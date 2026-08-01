@@ -14,11 +14,11 @@ Here is a look at the final build and the mechanics behind it:
 
 <div align="center">
   <!-- GANTI LINK GAMBAR DI BAWAH INI DENGAN LINK FOTO ASLI ANDA -->
-  <img src="./documentation/photo1_final_build.jpg" alt="Final Assembly" width="30%">
-  <img src="./documentation/photo2_sensor_array.jpg" alt="LDR Sensor Array" width="30%">
-  <img src="./documentation/photo3_mechanism.jpg" alt="Pan-Tilt Mechanism" width="30%">
+  <img src="./Documentation/3Implementation.jpg" alt="Final Assembly" width="30%">
+  <img src="./Documentation/2Wiring_Diagram.png" alt="Wiring Diagram" width="30%">
+  <img src="./Documentation/1Printing_Slicing.png" alt="3D Slicing" width="30%">
 </div>
-<p align="center"><i>(Left to right: Final Assembly, LDR Sensor Array with Separator, 3D Printed Pan-Tilt Mechanism)</i></p>
+<p align="center"><i>(Left to right: Final Assembly, Wiring Diagram, 3D Printed Pan-Tilt Mechanism)</i></p>
 
 ---
 
